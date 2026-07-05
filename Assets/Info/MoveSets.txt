@@ -1,0 +1,59 @@
+Player (swordsman/melee):
+- Slash
+- Charge Strike - Big damage, but always attacks second.
+- Dazing Blow - 50% to daze for 2 turns
+- Final Gambit - Huge damage but cannot act next turn.
+
+Elani (dancer rogue/melee):
+- Backstab
+- Punishment - Bonus damage if enemy is buffed.
+- Babydoll Eyes - Set Vulnerable (reduces DEF and RES)
+- Climax - (Instantly kills if brought below 20% health)
+
+Astrid (ranger/ranged):
+- Bow Shot
+- Power Draw - Bonus damage
+- Cripple - 100% chance to cripple for one turn
+- Headshot - Guaranteed to critically strike
+
+Celeste (priestess/melee):
+- Heal
+- Mana Restore - Restore target mana
+- Cure - Restores large hp and cures debuffs  
+- Ilvera's Protection - Completely heal/mana and set Invulnerable for 1 turn
+
+Gerard (general/melee):
+- Thrust
+- Triumphant Shout - 75% to taunt enemy.
+- Shield Bash - Extra damage per DEF
+- Last Stand - Set Undying user cannot drop below 1 hp this turn.
+
+Ivy (nature mage/ranged):
+- Vine Lash
+- Noxious Fumes - 75 percent chance to poison
+- Essence Drain - Restore mana equal to half damage
+- Spore Burst - Big damage if target is poisoned, removes poison.
+
+Katherine (cavalier/melee):
+- Trample
+- Flank Attack - Bonus damage if enemy cannot attack back.
+- Flame Charge - Resisted by RES rather than DEF.
+- Stampede - Does not end turn.
+
+Lucas (pugilist/melee):
+- Double punch
+- Blurry Fist - 50% chance to confuse for 2 turns
+- Hero Spirit - Power is doubled when user is below 50%
+- Intinct -  Enter flow state. Speed doubled.
+
+Penelope (instrument/ranged) :
+- Split Chord - Restore hp and mana
+- Power Chord - Set Charged (Next attack does double damage.)
+- Rejuvenate - Allow ally to take another turn.
+- Crecendo - Set boosted (All primary stats boosted)
+
+Maeve (Hemomancer/ranged) :
+- Blood Magik
+- Life Drain - Heal for the same amount
+- Sacrifice - Transfer 25% current health to an ally.
+- Blood bomb - Lose 50% current health to do huge damage.

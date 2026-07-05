@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: daeec46b1d9e61944bd25ed14d46c2dc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248980
+  packageName: Fantasy Lands Houses
+  packageVersion: 1.0
+  assetPath: Assets/FL_Houses/Sliced/Exterriors/Roofs/FL_Houses_ext_roofsB.png
+  uploadId: 568240
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 480
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5905ca8fe07146936ed19306dc8fd
+      internalID: -683126839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 480
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7252941f97ef7449b0e56b55561766
+      internalID: 1829453980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 469
+        width: 166
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b20c9173a6e943af4c2718a7be607
+      internalID: -1023675570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 469
+        width: 166
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7baacd28abfba4dbcc9166d83982f5
+      internalID: -362996220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef28b28fa8adeb47a824c227bf98d74
+      internalID: -1441873259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 480
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d77bc340e71342824a18f395a1ce5
+      internalID: 1182321548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 448
+        width: 132
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af52f7ee592dc4fa23ca024a4d87cd
+      internalID: -47355925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 384
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35405fdda36444499c5208302312dcd
+      internalID: 484603966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50e91dade5ff140aeab898bb829f11
+      internalID: -549450663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 320
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74427953fb8e165409964184b7eda5f4
+      internalID: -1582548337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29277084cb53c304e86cbf8e488a6cce
+      internalID: -719293804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf9d57fabe95c4886e25b245860d06
+      internalID: -2099445459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 320
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d29e22f29db5545b89a2902956f5d7
+      internalID: -1242149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 256
+        width: 132
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084df3c60e9fdf45a5ddfa4ba6cbd2e
+      internalID: -1049516768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 346
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded351bc8748ae94dbd52e6b89624d6c
+      internalID: 579828376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046b8874a74fa54eb1cc06ea136f9fe
+      internalID: -1256828126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 129
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df3bafd8c8c0c4887d63c1e233c5bf
+      internalID: -411984606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 122
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bad2d24e47b294da6ecac8bdda4b24
+      internalID: -1773388141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 129
+        width: 136
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87678fd03de970d41a44f8f0dc823df1
+      internalID: -1740370341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 144
+        width: 168
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485722a81c46f640902609f1aa1b33d
+      internalID: 77939817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 144
+        width: 168
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a342b0bef720564a94c6a841fa9c828
+      internalID: -1375803154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_21
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 192
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae01461de8e99c847960ccd93403e54a
+      internalID: 1529148716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f92fff285e8c408c6ee4c6e46b00c
+      internalID: -1117718692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 30
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052031be724173c4f964d896c4efbd06
+      internalID: -1495161976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe45936eb46d7547a4afba4b1ee1f2c
+      internalID: -1830619517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 30
+        width: 154
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be41af5b00618a44b52a4c7759dc00f
+      internalID: -334975784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 32
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fa928af8d80941b58d7b11284986a
+      internalID: 1088787628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739e14fa33442445b3a4e3a1a40cfc4
+      internalID: 587824664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_roofsB_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 64
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a89e02d4759f745baba475c52790fd
+      internalID: -1224599293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FL_Houses_ext_roofsB_0: -683126839
+      FL_Houses_ext_roofsB_1: 1829453980
+      FL_Houses_ext_roofsB_10: -719293804
+      FL_Houses_ext_roofsB_11: -2099445459
+      FL_Houses_ext_roofsB_12: -1242149477
+      FL_Houses_ext_roofsB_13: -1049516768
+      FL_Houses_ext_roofsB_14: 579828376
+      FL_Houses_ext_roofsB_15: -1256828126
+      FL_Houses_ext_roofsB_16: -411984606
+      FL_Houses_ext_roofsB_17: -1773388141
+      FL_Houses_ext_roofsB_18: -1740370341
+      FL_Houses_ext_roofsB_19: 77939817
+      FL_Houses_ext_roofsB_2: -1023675570
+      FL_Houses_ext_roofsB_20: -1375803154
+      FL_Houses_ext_roofsB_21: 1529148716
+      FL_Houses_ext_roofsB_22: -1117718692
+      FL_Houses_ext_roofsB_23: -1495161976
+      FL_Houses_ext_roofsB_24: -1830619517
+      FL_Houses_ext_roofsB_25: -334975784
+      FL_Houses_ext_roofsB_26: 1088787628
+      FL_Houses_ext_roofsB_27: 587824664
+      FL_Houses_ext_roofsB_28: -1224599293
+      FL_Houses_ext_roofsB_3: -362996220
+      FL_Houses_ext_roofsB_4: -1441873259
+      FL_Houses_ext_roofsB_5: 1182321548
+      FL_Houses_ext_roofsB_6: -47355925
+      FL_Houses_ext_roofsB_7: 484603966
+      FL_Houses_ext_roofsB_8: -549450663
+      FL_Houses_ext_roofsB_9: -1582548337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

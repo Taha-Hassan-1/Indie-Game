@@ -1,0 +1,28 @@
+TODO: Visual indicators for status buffs/debuffs.
+
+Negative statuses:
+
+DONE - Dazed - Lowers ATK and INT
+DONE - Confused - Lowers SKL
+DONE - Vulnerable - Lowers DEF and RES
+DONE - Slowed - Lowers SPD
+DONE - Crippled - Cannot move
+DONE - Poisoned - Damage per turn
+DONE - Taunted - Attack closest target
+
+
+Positive statuses:
+
+DONE - Flowing - Boosted speed and skl.
+DONE - Invigorated - Boosts all stats
+
+Charged - Next attack does 1.5x damage
+Invincible - Negate all damage
+Steadfast - Cannot be reduced below 1 health
+
+
+
+Logic:
+
+If an character is already buffed/debuffed: Applying it again only adds more turns. It does not stack
+

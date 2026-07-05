@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 88ffde7aae2ae6a44a9695e7a6b06c2b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248980
+  packageName: Fantasy Lands Houses
+  packageVersion: 1.0
+  assetPath: Assets/FL_Houses/Sliced/Interriors/Furnitures/FL_Houses_int_FurnituresC.png
+  uploadId: 568240
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6829a0f19d0e74eab714a07e7db705
+      internalID: 851783129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 544
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3aa6f047554a419b626dbb6990a71
+      internalID: 621219156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 416
+        width: 42
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b8466470fea244ae70ea2df5c17fc
+      internalID: 1666357032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 416
+        width: 42
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac97439c877034087f60f8c8ff05dd
+      internalID: 1455910782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 223
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152fde699906cfc499240fa99e64d02c
+      internalID: 68597152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 496
+        width: 24
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079596ee3f6938541975a66f9af7b0b4
+      internalID: -900379305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 545
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f7cb190c14054ea78360846c6165a
+      internalID: 1798868083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 480
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b54670a580a343b0f86c15acacf4d
+      internalID: -130796139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 481
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48cbc7e6cbfbf540ab9f3a55f05218b
+      internalID: -1590939457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 481
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a584218134a76d47bbdb0f1b0f397e0
+      internalID: -954978839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 224
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587454ae99b8e5d40b64fd3e4a6a9fd6
+      internalID: -1179483380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 417
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b94993e70a784f989a13c9cdf9a38
+      internalID: 1026772051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 417
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71209a371c2d8ff4fafe0942d634b956
+      internalID: 125273732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 352
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e6d421fb32c949a0f26d43e46abc8
+      internalID: -739559538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 352
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c54ed475359bfb4aa9cd8d4093abd37
+      internalID: 1284783376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ffb5389bff614b8945a2e404f4a63
+      internalID: 200612111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 353
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26704f984120244bed2c4fae1a051c
+      internalID: -1287683623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec863ec3b113ab144b773176ddbbd9bc
+      internalID: -2115514684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd96085cb1ee24a9bf55da211b0cfb
+      internalID: -970488502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 289
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36332807449db3147ba9428b0a312488
+      internalID: -1693281232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 289
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d326efcd9e2cb45aee579cc9360d0f
+      internalID: 1190207153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b125d1e06317023489b29e14dfd95470
+      internalID: -999475180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c00a4bf1d5894db7318fb76ee428d
+      internalID: -833552406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8227ec810f054d87384d7e782fe67
+      internalID: 1460055768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b613e9ec946494dba28651bccfcede
+      internalID: 1856330289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e266e319652431d4a9bed3f8a11c842d
+      internalID: -2128949304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9de6763ea77242941c0d0bd1482cc
+      internalID: 1875852974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 192
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dcc503aa6fbd4b8b5e5557373775c
+      internalID: -1795609722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 210
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f6e633a2f1474f8beda765282692c
+      internalID: 651039381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373a82ab9043f744890b6993966789e
+      internalID: 1110386839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b8b43fa034854d8bfb880e195922f
+      internalID: -1723464373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547a3c5e65425544af5b52df3dff812
+      internalID: -460325356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7dc9999655c2d4286257168d80785e
+      internalID: -1587439283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39592c041e852ae45a4dad94efc48da3
+      internalID: -964169983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec277663663ff144bb112940975b7bb
+      internalID: -576355411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 96
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89b5a0e90c4124b8431b9a8641ee28
+      internalID: -702117594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0855426e3107304f90c000d6a60e3c8
+      internalID: -1552671535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d214786220ef49b5f8bcd3080ce95
+      internalID: -325764661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c52da2501f8e44ca7b63138c56cfbf
+      internalID: -186928591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a735736d9d0f2469ebc169e6a3e166
+      internalID: 951607643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899106e8407570747afe30ee1a5e0668
+      internalID: -179938802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e121d9623562e418a30fd7c7b9d8df
+      internalID: 1977929273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167318511c30959489d82b39df5ef74d
+      internalID: 250988841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 385
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9052dab2682c4ca5b83a17dbd8af1
+      internalID: 1816563938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 287
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee1c2fd8cb4c2479f17ddf66ef9c11
+      internalID: 1094703081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 385
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc8f76071428d42883ae2250992b45
+      internalID: -1038780199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 342
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6061c36c9ef63ea40af5a49f405ea3d4
+      internalID: -1864457350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 291
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206405b49946b954ab7fe0514d016bbc
+      internalID: 1378987377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 489
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886051b1fd876c4ba2f585b54343833
+      internalID: -1122905510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 334
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2be6c14e33e76408353e6040e03c07
+      internalID: 662470861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59875d8aa33d44c42a7bbf9463df135a
+      internalID: 1536607938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867364839519fd4c97e56511b905a34
+      internalID: -2096935942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_FurnituresC_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57042277d33dd24a8a9f744c8702df2
+      internalID: -338257922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FL_Houses_int_FurnituresC_0: 851783129
+      FL_Houses_int_FurnituresC_1: 621219156
+      FL_Houses_int_FurnituresC_10: -1179483380
+      FL_Houses_int_FurnituresC_11: 1026772051
+      FL_Houses_int_FurnituresC_12: 125273732
+      FL_Houses_int_FurnituresC_13: -739559538
+      FL_Houses_int_FurnituresC_14: 1284783376
+      FL_Houses_int_FurnituresC_15: 200612111
+      FL_Houses_int_FurnituresC_16: -1287683623
+      FL_Houses_int_FurnituresC_17: -2115514684
+      FL_Houses_int_FurnituresC_18: -970488502
+      FL_Houses_int_FurnituresC_19: -1693281232
+      FL_Houses_int_FurnituresC_2: 1666357032
+      FL_Houses_int_FurnituresC_20: 1190207153
+      FL_Houses_int_FurnituresC_21: -999475180
+      FL_Houses_int_FurnituresC_22: -833552406
+      FL_Houses_int_FurnituresC_23: 1460055768
+      FL_Houses_int_FurnituresC_24: 1856330289
+      FL_Houses_int_FurnituresC_25: -2128949304
+      FL_Houses_int_FurnituresC_26: 1875852974
+      FL_Houses_int_FurnituresC_27: -1795609722
+      FL_Houses_int_FurnituresC_28: 651039381
+      FL_Houses_int_FurnituresC_29: 1110386839
+      FL_Houses_int_FurnituresC_3: 1455910782
+      FL_Houses_int_FurnituresC_30: -1723464373
+      FL_Houses_int_FurnituresC_31: -460325356
+      FL_Houses_int_FurnituresC_32: -1587439283
+      FL_Houses_int_FurnituresC_33: -964169983
+      FL_Houses_int_FurnituresC_34: -576355411
+      FL_Houses_int_FurnituresC_35: -702117594
+      FL_Houses_int_FurnituresC_36: -1552671535
+      FL_Houses_int_FurnituresC_37: -325764661
+      FL_Houses_int_FurnituresC_38: -186928591
+      FL_Houses_int_FurnituresC_39: 951607643
+      FL_Houses_int_FurnituresC_4: 68597152
+      FL_Houses_int_FurnituresC_40: -179938802
+      FL_Houses_int_FurnituresC_41: 1977929273
+      FL_Houses_int_FurnituresC_42: 250988841
+      FL_Houses_int_FurnituresC_43: 1816563938
+      FL_Houses_int_FurnituresC_44: 1094703081
+      FL_Houses_int_FurnituresC_45: -1038780199
+      FL_Houses_int_FurnituresC_46: -1864457350
+      FL_Houses_int_FurnituresC_47: 1378987377
+      FL_Houses_int_FurnituresC_48: -1122905510
+      FL_Houses_int_FurnituresC_49: 662470861
+      FL_Houses_int_FurnituresC_5: -900379305
+      FL_Houses_int_FurnituresC_50: 1536607938
+      FL_Houses_int_FurnituresC_51: -2096935942
+      FL_Houses_int_FurnituresC_52: -338257922
+      FL_Houses_int_FurnituresC_6: 1798868083
+      FL_Houses_int_FurnituresC_7: -130796139
+      FL_Houses_int_FurnituresC_8: -1590939457
+      FL_Houses_int_FurnituresC_9: -954978839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

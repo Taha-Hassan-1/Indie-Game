@@ -1,0 +1,3173 @@
+fileFormatVersion: 2
+guid: 8cf97bcafb75dbb488ea39a97e825385
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248980
+  packageName: Fantasy Lands Houses
+  packageVersion: 1.0
+  assetPath: Assets/FL_Houses/Sliced/Interriors/FL_Houses_int_building elements.png
+  uploadId: 568240
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcd13d1ea520943a8d18e756c59862
+      internalID: 712704678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8cf58e2733ee42b7a0c0bf556d18a
+      internalID: -2010410430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a9d8cb454ff24493b3b2233717ced
+      internalID: -1565436849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922d4b770998334d9ea69a31286ff57
+      internalID: -1697842819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf820aff9c99b044844443676ff34c3
+      internalID: 1759329182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942d6ed173b87e46ae936c06ec562db
+      internalID: -1432465139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 596
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141f1fea818e964ea5e6618b0c92fbb
+      internalID: 1996202796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 596
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8cd93af1cb464bbd859a936f79bd5
+      internalID: -928733249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 596
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2aff6517a30a4db5d6993e7466bb8
+      internalID: -1167309232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 596
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd108194bfa0444af3d9ff629dd2d3
+      internalID: -689460710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 587
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192943c4559fc3243be52e3d007b5bc8
+      internalID: 483749663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 587
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8125d030d528499eca7b94725051e
+      internalID: -338091498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 587
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec6d12dd5aedc4eab5e671279ab0c6
+      internalID: -323680322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 587
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbfb3fd4e6a7e0429453316db07d435
+      internalID: 1902746434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a0dad11c2bcaa428df2701855879eb
+      internalID: -1152320827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d953ec320aa7489400234fea03251
+      internalID: 229813922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6577e3c9164c34a4fa5986e79dde9fa1
+      internalID: 1588852405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe37179385cb94b83e302710511166
+      internalID: -612339359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 532
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d43edfff0d0e46b8dd596471f7286
+      internalID: 2044742386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 532
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896e9e078add33a4f96cfd753975b1c6
+      internalID: -182752496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 530
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5016619ec73441b1c287184e27ceb
+      internalID: -1620768005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 530
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cd7f8b28ea9a449cd8100eff19f7b
+      internalID: 577546490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 549
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04e6c41c1ba71a419390d3c2b6bfe92
+      internalID: -1974332900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 549
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c287b8ca12fd4ba8a02ade3f9006b
+      internalID: 1070904416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 523
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86008cf453e943498d314231271ba2d
+      internalID: 1850495306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 523
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becc9309ff3d304d8ce106d4c85629f
+      internalID: 505199066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 523
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae10c32bf3a1bf4ebc6f06f6b31eded
+      internalID: 1713150456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_27
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 523
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e74b5a806adda4aa1ec70366e4a6c4
+      internalID: 1810810672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 471
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85769cb295a3245ae03eeb036abaa6
+      internalID: -39835377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 471
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042f3828027538429b7b1f85b26060f
+      internalID: 1286427148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 471
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6bd56b41ce414fba6a352ef297821
+      internalID: -1634148311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 471
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7f9207c595484eb3c31accfab1610
+      internalID: 47438525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 487
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9275a35d68e564c96c0c42827210c3
+      internalID: -2109806057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 487
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec60ead40c4334a8afa43f0454b046
+      internalID: 1229736026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635b0ea2ebfb1d4688cc31c7b095c32
+      internalID: 979945566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 459
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace16121881e80459378590e404cc6d
+      internalID: -861342736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_36
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 459
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f3e2f34b03d0428d21f557965087a
+      internalID: -855859184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 459
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb20e0571352c4a8dda61ff3f7866a
+      internalID: -5674081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddcbbc6c55aee442ae99b5101a12420
+      internalID: 1714217015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f74c6d0520c314b98f1aa74d885573
+      internalID: -1575000998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253737b90d738c84892567d654e12091
+      internalID: -1796217497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb9b8fffc46a7469679ea0f91fd8d0
+      internalID: 42420726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd56821861f25045bb511bd61fdaf4c
+      internalID: -1672098592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88718d8bcf582e4b8fea741685ef0c2
+      internalID: -127461445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 404
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f185e4e4785614d92d2aeaa437d5a7
+      internalID: 317279385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 404
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb514247fcc8545bada218b561b1cc
+      internalID: 51454817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 404
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5994ca83b3320c247a8dd16a3ca04903
+      internalID: -869072766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 404
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e98d61f7492640aec71bca870fce7
+      internalID: -518221597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 395
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ae33abb7c5294bae40e5497a39645
+      internalID: 248647324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 395
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19622f07c0cc7469ad216c959a3775
+      internalID: -1277523767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_50
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 395
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2059546cec0e84ca77eac0d1cc1367
+      internalID: 1744295309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 395
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd9dad2fd9fd1488fe731a25b619f8
+      internalID: -231995678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 340
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e846ddcb641a46ae6ce62fbfab4cb
+      internalID: 1298512432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 340
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc7fe070be1b94ebb4b6259569371b
+      internalID: 1240849425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 340
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9eb7d3f34fa142b51156c46a8cb7e
+      internalID: 1710847668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 340
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d9aadfc25caa4d996ccf56ba0138b
+      internalID: -1440637954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 340
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb70113498f4b84cba6010a6d9256cc
+      internalID: 2102892294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156045456aded8343b5a5b3e1c05ff1f
+      internalID: 513435805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 338
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4561949750d7924185d2a1286d82e97
+      internalID: -1693792151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 338
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127ac512fae122948b27482b66b008ee
+      internalID: -1113290532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 354
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705f13df361a7c42b9de9bd82b490b1
+      internalID: -689616107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_61
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 354
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20273702c412177429feafe4aeb973f9
+      internalID: -1401009738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 331
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9449a8abbb43e49b8c0631c95926c3
+      internalID: 602385664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_63
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 331
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda1cb438f55d441ae3dc7c1e0fd8ab
+      internalID: -1375645248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_64
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 331
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdef53bdef3d674caff049d8a8d0b84
+      internalID: -946783964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_65
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 331
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c8aa98410ba142b2114dd8b1850e7
+      internalID: -146790867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 279
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61741794b7c63241a223eadbadb8d58
+      internalID: 1868185357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 279
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d42c9aaeb69b546b26ba2225c842a3
+      internalID: 1883997992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 279
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ddded3b18ba2448885cbcd7a087e9b
+      internalID: -1762655028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 279
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4bd35b4074f043993b712afbc7bef
+      internalID: -2008318996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 215
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4848bc92a12348bb6d64ffb77474f
+      internalID: -1624772594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 295
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6733513f1e562a144a6bb7c92906dcc8
+      internalID: 314224985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 295
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a083c1753fbd6774492ff3303f25e146
+      internalID: -1777964570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 267
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc46789a2d85fe47bb1d5cf6a93b0d8
+      internalID: -1021409167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_74
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 267
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f41c5607511b6469c3b6f460f727b0
+      internalID: 1451524453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_75
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 267
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639160a5cad597e4f9cd95bac45c5cb6
+      internalID: -30035907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_76
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 267
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264dd43b2ec791409e5113182ccc76d
+      internalID: -1845214864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 4
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20f16cb9b2f6f4bbd9174ef0a53924
+      internalID: 1100975333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180debfe50b17994aba9897b03b67a91
+      internalID: -1529712230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 4
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b13da0d99cda64993325f79086870a
+      internalID: -1920598081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 4
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa720814bd38f3e4999edd8f2d50cd1d
+      internalID: 917925791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 4
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd96dc5acf1fa489aeba4943868899
+      internalID: -1547714915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 191
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd21ca28f086744f8d12b1a61916eff
+      internalID: -640186442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_83
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 151
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa859a5e0ebe6a48b9d4a4eb6114fd3
+      internalID: 1121801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817fcadd954c0a54b922ceaecb0f05a9
+      internalID: 684819906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_85
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 23
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179144c3bd176a499c0a00f7819eeb4
+      internalID: -1850779835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 460
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53ff021f879e641b55558aafc0f2c4
+      internalID: -2029506895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 459
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65bbaa2d9a705e49870dfd60a0c1602
+      internalID: 198909750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_88
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 488
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b02b70308268f4e89fc28b45114b58
+      internalID: 1131374384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 484
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f728dcbc2a5e4f9a77958622999be
+      internalID: -757612726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_90
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 463
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c236db2a6e124f84e4a841a9f1341
+      internalID: -1608258328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_91
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 463
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8dc53fbaac187408220ce0ea3ea588
+      internalID: 2039510800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 459
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec873d37f6130945b932083508998c8
+      internalID: -241694570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_93
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb537bcaa2822946b6d8f44d390c95f
+      internalID: -538369714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_94
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfbe7924bc16f45a8e5939143c30a6
+      internalID: -166365533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c333532065efc846b8e799d1d8372be
+      internalID: 1907667274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40494fdd841cc084db9086124016570a
+      internalID: -1728115851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b9f2f93379614c9cd71b97bba2be7
+      internalID: -990450973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc12b5d9fd684438926b7c6be6c1c3
+      internalID: -496399706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 161
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef001751fb813d41acad2f406909538
+      internalID: -2131650036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dcce12ea77ccd42afbdec09703c525
+      internalID: 92684256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_101
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 193
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a69e17a4129b49b43e9321daeffdf
+      internalID: 224666304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_102
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 192
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eaf68f6e03cdd4e917e5d127526a3a
+      internalID: -1183507132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_103
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234c06bca538d44ea88425f8cb87fda
+      internalID: -784370080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a5bbe5b878d54d9486069ec33c698
+      internalID: 511630693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b444224ae81649941bd4d50588ce7
+      internalID: 666894206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262ea818e1ca574d8e9066911b07476
+      internalID: -899108416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_107
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca900bc3220394d8aa58059052cf0b
+      internalID: -1159300145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640847e64e741b0498cd8a0edcffe64c
+      internalID: 1476406696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b295d606397b448506ebbcf186e3a
+      internalID: -1600665694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_110
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632302a392b172e4bb1e280f4f2302d3
+      internalID: -1468154266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_111
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 97
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef79bc7d8d3f874ab853f606d7ae204
+      internalID: 2056671485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_112
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63
+        width: 4
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad555de1fa5a1d4e8b73983c02b9a49
+      internalID: -904458913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cdf10d99352f8478f21b44801a9229
+      internalID: 1315210907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b6017431c1df47af9034c2aeccc29
+      internalID: 597565911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 65
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8b7fc8f7e0df49951b4bf2ce6a3b6
+      internalID: 1023985507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3690eb292bf5247b79a874aca550d1
+      internalID: 96834339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_117
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25afbce48248654eb707a4fe1fac3c8
+      internalID: 299332921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_118
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88250eb84f57bfc4992bb110ffb0287b
+      internalID: -111295375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9edaa0e3916a438e20aff6d1cbacb
+      internalID: 2091212116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_120
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 32
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf925985a739da498e8909bc9e472b3
+      internalID: -338698107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_121
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1032f1100f56ac41b4dba8a7951bd81
+      internalID: -884717278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_122
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 96
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c051f938308e49b7b6884ec99850d
+      internalID: -1026269738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0cf8a279c6c24e92466280547b78d
+      internalID: 1708323708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 145
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5d9a13fe8783c4c9df1860217e59bc
+      internalID: 516930172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 145
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a028e70ce495548be315e62ced5d3d
+      internalID: 1299881307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 165
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12459064663a07f4d8d018cbb6e37ccd
+      internalID: 549781743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_127
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59445f3022ddd246ab8d3dbe08be3cb
+      internalID: -718646446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_128
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 97
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa9a6597aaa56488ca568ff800626a
+      internalID: 626047362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_129
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd86952cefc564fa24da8201e13abc
+      internalID: 1593716785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524dcbe8e2272346bd07a1b4d2d9a70
+      internalID: -1005180243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_int_building elements_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292166575c600b40910e3db876b8311
+      internalID: -666716991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FL_Houses_int_building elements_0: 712704678
+      FL_Houses_int_building elements_1: -2010410430
+      FL_Houses_int_building elements_10: 483749663
+      FL_Houses_int_building elements_100: 92684256
+      FL_Houses_int_building elements_101: 224666304
+      FL_Houses_int_building elements_102: -1183507132
+      FL_Houses_int_building elements_103: -784370080
+      FL_Houses_int_building elements_104: 511630693
+      FL_Houses_int_building elements_105: 666894206
+      FL_Houses_int_building elements_106: -899108416
+      FL_Houses_int_building elements_107: -1159300145
+      FL_Houses_int_building elements_108: 1476406696
+      FL_Houses_int_building elements_109: -1600665694
+      FL_Houses_int_building elements_11: -338091498
+      FL_Houses_int_building elements_110: -1468154266
+      FL_Houses_int_building elements_111: 2056671485
+      FL_Houses_int_building elements_112: -904458913
+      FL_Houses_int_building elements_113: 1315210907
+      FL_Houses_int_building elements_114: 597565911
+      FL_Houses_int_building elements_115: 1023985507
+      FL_Houses_int_building elements_116: 96834339
+      FL_Houses_int_building elements_117: 299332921
+      FL_Houses_int_building elements_118: -111295375
+      FL_Houses_int_building elements_119: 2091212116
+      FL_Houses_int_building elements_12: -323680322
+      FL_Houses_int_building elements_120: -338698107
+      FL_Houses_int_building elements_121: -884717278
+      FL_Houses_int_building elements_122: -1026269738
+      FL_Houses_int_building elements_123: 1708323708
+      FL_Houses_int_building elements_124: 516930172
+      FL_Houses_int_building elements_125: 1299881307
+      FL_Houses_int_building elements_126: 549781743
+      FL_Houses_int_building elements_127: -718646446
+      FL_Houses_int_building elements_128: 626047362
+      FL_Houses_int_building elements_129: 1593716785
+      FL_Houses_int_building elements_13: 1902746434
+      FL_Houses_int_building elements_130: -1005180243
+      FL_Houses_int_building elements_131: -666716991
+      FL_Houses_int_building elements_14: -1152320827
+      FL_Houses_int_building elements_15: 229813922
+      FL_Houses_int_building elements_16: 1588852405
+      FL_Houses_int_building elements_17: -612339359
+      FL_Houses_int_building elements_18: 2044742386
+      FL_Houses_int_building elements_19: -182752496
+      FL_Houses_int_building elements_2: -1565436849
+      FL_Houses_int_building elements_20: -1620768005
+      FL_Houses_int_building elements_21: 577546490
+      FL_Houses_int_building elements_22: -1974332900
+      FL_Houses_int_building elements_23: 1070904416
+      FL_Houses_int_building elements_24: 1850495306
+      FL_Houses_int_building elements_25: 505199066
+      FL_Houses_int_building elements_26: 1713150456
+      FL_Houses_int_building elements_27: 1810810672
+      FL_Houses_int_building elements_28: -39835377
+      FL_Houses_int_building elements_29: 1286427148
+      FL_Houses_int_building elements_3: -1697842819
+      FL_Houses_int_building elements_30: -1634148311
+      FL_Houses_int_building elements_31: 47438525
+      FL_Houses_int_building elements_32: -2109806057
+      FL_Houses_int_building elements_33: 1229736026
+      FL_Houses_int_building elements_34: 979945566
+      FL_Houses_int_building elements_35: -861342736
+      FL_Houses_int_building elements_36: -855859184
+      FL_Houses_int_building elements_37: -5674081
+      FL_Houses_int_building elements_38: 1714217015
+      FL_Houses_int_building elements_39: -1575000998
+      FL_Houses_int_building elements_4: 1759329182
+      FL_Houses_int_building elements_40: -1796217497
+      FL_Houses_int_building elements_41: 42420726
+      FL_Houses_int_building elements_42: -1672098592
+      FL_Houses_int_building elements_43: -127461445
+      FL_Houses_int_building elements_44: 317279385
+      FL_Houses_int_building elements_45: 51454817
+      FL_Houses_int_building elements_46: -869072766
+      FL_Houses_int_building elements_47: -518221597
+      FL_Houses_int_building elements_48: 248647324
+      FL_Houses_int_building elements_49: -1277523767
+      FL_Houses_int_building elements_5: -1432465139
+      FL_Houses_int_building elements_50: 1744295309
+      FL_Houses_int_building elements_51: -231995678
+      FL_Houses_int_building elements_52: 1298512432
+      FL_Houses_int_building elements_53: 1240849425
+      FL_Houses_int_building elements_54: 1710847668
+      FL_Houses_int_building elements_55: -1440637954
+      FL_Houses_int_building elements_56: 2102892294
+      FL_Houses_int_building elements_57: 513435805
+      FL_Houses_int_building elements_58: -1693792151
+      FL_Houses_int_building elements_59: -1113290532
+      FL_Houses_int_building elements_6: 1996202796
+      FL_Houses_int_building elements_60: -689616107
+      FL_Houses_int_building elements_61: -1401009738
+      FL_Houses_int_building elements_62: 602385664
+      FL_Houses_int_building elements_63: -1375645248
+      FL_Houses_int_building elements_64: -946783964
+      FL_Houses_int_building elements_65: -146790867
+      FL_Houses_int_building elements_66: 1868185357
+      FL_Houses_int_building elements_67: 1883997992
+      FL_Houses_int_building elements_68: -1762655028
+      FL_Houses_int_building elements_69: -2008318996
+      FL_Houses_int_building elements_7: -928733249
+      FL_Houses_int_building elements_70: -1624772594
+      FL_Houses_int_building elements_71: 314224985
+      FL_Houses_int_building elements_72: -1777964570
+      FL_Houses_int_building elements_73: -1021409167
+      FL_Houses_int_building elements_74: 1451524453
+      FL_Houses_int_building elements_75: -30035907
+      FL_Houses_int_building elements_76: -1845214864
+      FL_Houses_int_building elements_77: 1100975333
+      FL_Houses_int_building elements_78: -1529712230
+      FL_Houses_int_building elements_79: -1920598081
+      FL_Houses_int_building elements_8: -1167309232
+      FL_Houses_int_building elements_80: 917925791
+      FL_Houses_int_building elements_81: -1547714915
+      FL_Houses_int_building elements_82: -640186442
+      FL_Houses_int_building elements_83: 1121801166
+      FL_Houses_int_building elements_84: 684819906
+      FL_Houses_int_building elements_85: -1850779835
+      FL_Houses_int_building elements_86: -2029506895
+      FL_Houses_int_building elements_87: 198909750
+      FL_Houses_int_building elements_88: 1131374384
+      FL_Houses_int_building elements_89: -757612726
+      FL_Houses_int_building elements_9: -689460710
+      FL_Houses_int_building elements_90: -1608258328
+      FL_Houses_int_building elements_91: 2039510800
+      FL_Houses_int_building elements_92: -241694570
+      FL_Houses_int_building elements_93: -538369714
+      FL_Houses_int_building elements_94: -166365533
+      FL_Houses_int_building elements_95: 1907667274
+      FL_Houses_int_building elements_96: -1728115851
+      FL_Houses_int_building elements_97: -990450973
+      FL_Houses_int_building elements_98: -496399706
+      FL_Houses_int_building elements_99: -2131650036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

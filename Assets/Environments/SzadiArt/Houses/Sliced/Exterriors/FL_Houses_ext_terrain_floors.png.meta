@@ -1,0 +1,2872 @@
+fileFormatVersion: 2
+guid: 0c9cd7a7ab0b59446972f45c0f9c4867
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248980
+  packageName: Fantasy Lands Houses
+  packageVersion: 1.0
+  assetPath: Assets/FL_Houses/Sliced/Exterriors/FL_Houses_ext_terrain_floors.png
+  uploadId: 568240
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251624269d627d04ba570b19929992bb
+      internalID: 1579899493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949639da8939174ca7b896e54698b5f
+      internalID: -128899873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 447
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ecb61ea3b2f84186f5a6cd358460a
+      internalID: 1340802411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 491
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dcdee4ed7d47a49960a855d20283a3
+      internalID: 1449819805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 128
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333b967855f3d34fb8ed3f94d76bbea
+      internalID: -1532141572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 557
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a36a94bce178d4ebdd194a0fa896f9
+      internalID: -516279525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 494
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ee70dab0902d4f86e3c31932fc221
+      internalID: 1799628963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 470
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73987b25c5c1a4493aa4667d808c23
+      internalID: 212959584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 287
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2344ec0b4b4643d4986ed466a7ceacfc
+      internalID: 225764889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590fe2ad93dfbc4e9596e4658ba9a01
+      internalID: 615359490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_10
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 513
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b857a67b93fea43bf44ce08390632b
+      internalID: 1476055328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 478
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898256779642dff4e94291e912a389dc
+      internalID: -1230151674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 481
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb349d2ef1948479e686fa565ec1e9
+      internalID: -403503926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ad0edac81ce34691cca8b99f35752
+      internalID: -800040412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 456
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba50591fb8e85a418cd3bc05e86d939
+      internalID: -910413417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 395
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5bc9e007ef1a743912ff9d9b0b2ba1
+      internalID: 2011952127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 461
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f52720207dbc142b9ea153b0e928e7
+      internalID: 287661005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 385
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2484381a755a7bc43ad0b4a33ae8ed58
+      internalID: -550681951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 416
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a539c0b951d86408c15ecc54209699
+      internalID: 442965236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 416
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5fccd7cdad794d8696feedb6357c2
+      internalID: 404699063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_27
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 417
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60ac7de5d8ddd54ba9cbfba0a4dad25
+      internalID: 476379516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 355
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45f0bbca1ff3748b7d5c437820d794
+      internalID: 1932550079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 384
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06d90f1780ced43970f17bdc5f4ecc
+      internalID: -1004872898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 388
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428ae62e5081d14590cae62de7e3874
+      internalID: -168827628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b95361fa483641be04a89ed00faff
+      internalID: 1857838518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635eb7c14749ca4f8623fc8d86db918
+      internalID: -366039934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0ac18c1b7b2a498024d996965be0a
+      internalID: -189789253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 352
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3891634d92491d409b99d4638405e62
+      internalID: -1973638892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab4119cdcc2e448aeb9d42ee06ddd9
+      internalID: -1943485644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 353
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00810ee217a62f84fb278face75d450a
+      internalID: -603509276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 366
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81649e8e9872ec547a91c26d6df70d82
+      internalID: 40921796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95525564769fe44ba6127c5458a2cb
+      internalID: 1811614746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_45
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 365
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a26bd6dd1bdf498ebde27c2f18221
+      internalID: 1536272459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 355
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081ca5c2103ab64c81de20afe0c43de
+      internalID: -2021578614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 354
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863ccf290101e04e84eb630860d77b2
+      internalID: -34302727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def8970779282064aac79689dfce1855
+      internalID: 693621441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 185
+        width: 90
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0304a4423da824aabdd779abce27e3
+      internalID: -1589995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_52
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 321
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffccbff97e914440b2d79404a50e2ee
+      internalID: 298711647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 246
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5331c20b28392449a0598d1db01960
+      internalID: -1844449874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 270
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd19e0533cd8364fb504ffa965fe6c7
+      internalID: -709127364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 257
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82948e8727057184782a7f45f6a303b9
+      internalID: -1509638946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 263
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f085b3c6fcb948938bdb6d6b9f198
+      internalID: 1103407584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 264
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933d9e6f43cad5048a571cd151ea5004
+      internalID: 2104058148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 265
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc495e4345b03a459252f949ea68a8d
+      internalID: -1781788555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 266
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d26040e7ba2074ca2929740de45a0b
+      internalID: -1645145656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_66
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 260
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a75963aa3d1b44b5539d637ed3d0d
+      internalID: -1015399204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 264
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17544ab6482c8294685e71653e4d21eb
+      internalID: 1022432868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 261
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c52c89d1f67b43997fe0c4f0aefc7
+      internalID: 839353432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08777bfb12f97b489b2210f7fc14e94
+      internalID: 1069266154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 232
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579065a3c3443fc4eaf96abb70363da4
+      internalID: 495222172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_71
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 235
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a608ee96c7534b96bbb2d89de8d9b
+      internalID: -1447834881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 234
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c3ab93935f9f448d264d3d62a8f0b
+      internalID: 2015083986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_73
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 233
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ae87afc5ac4849b5b6fab68c573e2
+      internalID: 112324023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_74
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123df193651c4174da6535ee1f3ec8f5
+      internalID: 2085812507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_75
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 235
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9227b5b308e465499054ffec1302f19
+      internalID: -1570942620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_76
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 232
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7719f0ff8508d48834215a47607526
+      internalID: -800905897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_77
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 229
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd6ce877f684d644845149c065fbedf
+      internalID: -928457206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_78
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 232
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0bd31f573861a4b848754ffbcbf7f3
+      internalID: -993982879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516cdbda96f5874ebe51030d22268fb
+      internalID: 1015284490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed9316b898e8a4f9c62552a41479e6
+      internalID: -66410583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd389fa9528833f4bb7e83bd6f537f55
+      internalID: -745397504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_82
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 204
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3e8f84224a624981f9af45d12736e
+      internalID: -599462376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 204
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36136b1fdd852f4fafe073dfc8cb116
+      internalID: -2075476980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_84
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 204
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830fae03a0835554ab96bd15b6b08f9c
+      internalID: -912082501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 205
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745c05aa5fd7184bbc7e2f96b168a49
+      internalID: -1355951747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 193
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a195ba994a4fb8409923539e6ac1650
+      internalID: -1800949771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 198
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40962c30971300e439f68bb9a2eaa60a
+      internalID: -537727080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5eda97322ded4a80fa42fa9f4b821
+      internalID: 1157745373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef94bfcbd4c414a90487dcf0d6d804
+      internalID: 1581647412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 160
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652b6ccd59c190468e068a0c9c7aed6
+      internalID: -1925432068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 164
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e5bc6f620ce14ba0208e1d9954084
+      internalID: -516121066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380788af8108355458b7ede23e7553cd
+      internalID: -713120419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_93
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad9b29be2fe8345af5f9f9c1293c8b
+      internalID: 383403778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 171
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3563cf44130854d8697260bdf9df47
+      internalID: 120118573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 171
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54c1187eecfa844b5656826a261a98
+      internalID: 306589503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_96
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 171
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68685fa68068644b0ded20ace809a8
+      internalID: 131010262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_97
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 169
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf670896990c94dba1c685c9363797
+      internalID: -1488029600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_98
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 167
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61672b024985a924d9fd2505ec3e89f3
+      internalID: -918351779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_99
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 165
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c60ea490b0b8a42b9f36a9749642b4
+      internalID: 1947515245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_100
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a324e1d53fa240b82fbc27f9f216d
+      internalID: -123180630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_101
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69351e35ec8524786eb5725de726bb
+      internalID: -692089561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_102
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d64d74f8a66d04ea3b02438f914515
+      internalID: -1368387240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37969817358827647a98e1740d41331b
+      internalID: -1294551257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ccb8f2898dbf4abccc0359aa91e9e
+      internalID: -1038289166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_105
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 142
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f92c37ae87ae14a9ce8e0e18f547fe
+      internalID: -797447214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 136
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea327e91b042a344f9aadf05d78f731e
+      internalID: -1902440813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_107
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 133
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa56a644a7aa0042a2b1f3a4953f1d4
+      internalID: -1042280203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_108
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 128
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236602d5acd5d59408feafc4eef427a5
+      internalID: 814579758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 38
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57cbd1245b4b0488a0e4ed57e24bf9
+      internalID: 155265282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_110
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 132
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1357b8e091d13448ae1f38dfe877754
+      internalID: -1550599429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115186a5d1df025419b8200bfa05fdf6
+      internalID: -527935822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_112
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 130
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2156d3f3419d7749890732362048015
+      internalID: 1005089202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5ca3b132b4684d8c4cd345b15d5ac
+      internalID: 759928118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 38
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b2c0ba6fe5774f896cc2a22915fdc
+      internalID: 1332552504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_115
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 101
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb156a5276ddf42a91fbea66e62c54
+      internalID: 72596809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_116
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 46
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f401ec5267fb4d9e8222387bf3bf1
+      internalID: 1947408956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_117
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 46
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9e6b6d263de24eb38589e306abc12
+      internalID: 277731976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_118
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 46
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9693cf286793a4ea4cad452e396ef1
+      internalID: -1159738915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_119
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 73
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c59be653efb914b9156699e2ffad6e
+      internalID: -1942752662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_120
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 36
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea98fc695278d4aa102a5d9f218749
+      internalID: -1078060655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4047f5d719a24d93026f3ae50ddd1
+      internalID: -1076452613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f046a52ebcd94c9acf162a64cd677
+      internalID: 2037303696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_123
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a5e69e4c827dc4d9861a40719ab933
+      internalID: 705549464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a3bf672789f24abbfb107eef55dd5
+      internalID: 11974298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93e37d55326b94f9848a1562816ec2
+      internalID: 1153892399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_126
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b9a09029ddab8488948b00bd1fafbc
+      internalID: -1993574058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb6a9471b8b26b42abcf96207c47673
+      internalID: 2059923700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7957104a3c9152409f79c4e601b352b
+      internalID: 518201901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_129
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc83c788690084da468df4b95d5517
+      internalID: -1221184018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac6eb54c1f8a94680edc195c5cef1f
+      internalID: -1160198079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 449
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d3476a16203e4f8a7b998b3c39064
+      internalID: 69903727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_132
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 416
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665643e41280b94d9250fd434b84609
+      internalID: -1414345884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748ccaf8ea8a054987958f9305898c5
+      internalID: 1981926743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f7997a824aec45aa3460a72177df4
+      internalID: -1477591719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19482e0c069c6f9448ac0e56d5192082
+      internalID: 788179277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_136
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 286
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb87bb46f29504892b39d93d371a49
+      internalID: 324692992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_137
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 407
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3aab9a17f92e46a3cf92a5582dd6a
+      internalID: 1258359726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FL_Houses_ext_terrain_floors_138
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 129
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd98d0f7242134bb9c1018b9cc79f4
+      internalID: 625377862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FL_Houses_ext_terrain_floors_0: 1579899493
+      FL_Houses_ext_terrain_floors_1: -128899873
+      FL_Houses_ext_terrain_floors_10: 1476055328
+      FL_Houses_ext_terrain_floors_100: -123180630
+      FL_Houses_ext_terrain_floors_101: -692089561
+      FL_Houses_ext_terrain_floors_102: -1368387240
+      FL_Houses_ext_terrain_floors_103: -1294551257
+      FL_Houses_ext_terrain_floors_104: -1038289166
+      FL_Houses_ext_terrain_floors_105: -797447214
+      FL_Houses_ext_terrain_floors_106: -1902440813
+      FL_Houses_ext_terrain_floors_107: -1042280203
+      FL_Houses_ext_terrain_floors_108: 814579758
+      FL_Houses_ext_terrain_floors_109: 155265282
+      FL_Houses_ext_terrain_floors_11: -1230151674
+      FL_Houses_ext_terrain_floors_110: -1550599429
+      FL_Houses_ext_terrain_floors_111: -527935822
+      FL_Houses_ext_terrain_floors_112: 1005089202
+      FL_Houses_ext_terrain_floors_113: 759928118
+      FL_Houses_ext_terrain_floors_114: 1332552504
+      FL_Houses_ext_terrain_floors_115: 72596809
+      FL_Houses_ext_terrain_floors_116: 1947408956
+      FL_Houses_ext_terrain_floors_117: 277731976
+      FL_Houses_ext_terrain_floors_118: -1159738915
+      FL_Houses_ext_terrain_floors_119: -1942752662
+      FL_Houses_ext_terrain_floors_12: -30012460
+      FL_Houses_ext_terrain_floors_120: -1078060655
+      FL_Houses_ext_terrain_floors_121: -1076452613
+      FL_Houses_ext_terrain_floors_122: 2037303696
+      FL_Houses_ext_terrain_floors_123: 705549464
+      FL_Houses_ext_terrain_floors_124: 11974298
+      FL_Houses_ext_terrain_floors_125: 1153892399
+      FL_Houses_ext_terrain_floors_126: -1993574058
+      FL_Houses_ext_terrain_floors_127: 2059923700
+      FL_Houses_ext_terrain_floors_128: 518201901
+      FL_Houses_ext_terrain_floors_129: -1221184018
+      FL_Houses_ext_terrain_floors_13: -403503926
+      FL_Houses_ext_terrain_floors_130: -1160198079
+      FL_Houses_ext_terrain_floors_131: 69903727
+      FL_Houses_ext_terrain_floors_132: -1414345884
+      FL_Houses_ext_terrain_floors_133: 1981926743
+      FL_Houses_ext_terrain_floors_134: -1477591719
+      FL_Houses_ext_terrain_floors_135: 788179277
+      FL_Houses_ext_terrain_floors_136: 324692992
+      FL_Houses_ext_terrain_floors_137: 1258359726
+      FL_Houses_ext_terrain_floors_138: 625377862
+      FL_Houses_ext_terrain_floors_14: -1351595109
+      FL_Houses_ext_terrain_floors_15: -988843319
+      FL_Houses_ext_terrain_floors_16: 656483812
+      FL_Houses_ext_terrain_floors_17: 1295253975
+      FL_Houses_ext_terrain_floors_18: -800040412
+      FL_Houses_ext_terrain_floors_19: -910413417
+      FL_Houses_ext_terrain_floors_2: 1340802411
+      FL_Houses_ext_terrain_floors_20: 2011952127
+      FL_Houses_ext_terrain_floors_21: 287661005
+      FL_Houses_ext_terrain_floors_22: -550681951
+      FL_Houses_ext_terrain_floors_23: 442965236
+      FL_Houses_ext_terrain_floors_24: 404699063
+      FL_Houses_ext_terrain_floors_25: -1845680488
+      FL_Houses_ext_terrain_floors_26: 1550003307
+      FL_Houses_ext_terrain_floors_27: 476379516
+      FL_Houses_ext_terrain_floors_28: 701790523
+      FL_Houses_ext_terrain_floors_29: -961959278
+      FL_Houses_ext_terrain_floors_3: 1449819805
+      FL_Houses_ext_terrain_floors_30: 1932550079
+      FL_Houses_ext_terrain_floors_31: -1004872898
+      FL_Houses_ext_terrain_floors_32: -168827628
+      FL_Houses_ext_terrain_floors_33: 1857838518
+      FL_Houses_ext_terrain_floors_34: -1178992664
+      FL_Houses_ext_terrain_floors_35: 627471835
+      FL_Houses_ext_terrain_floors_36: -1945365426
+      FL_Houses_ext_terrain_floors_37: -256938686
+      FL_Houses_ext_terrain_floors_38: -366039934
+      FL_Houses_ext_terrain_floors_39: -189789253
+      FL_Houses_ext_terrain_floors_4: -1532141572
+      FL_Houses_ext_terrain_floors_40: -1973638892
+      FL_Houses_ext_terrain_floors_41: -1943485644
+      FL_Houses_ext_terrain_floors_42: -603509276
+      FL_Houses_ext_terrain_floors_43: 40921796
+      FL_Houses_ext_terrain_floors_44: 1811614746
+      FL_Houses_ext_terrain_floors_45: 1536272459
+      FL_Houses_ext_terrain_floors_46: -2021578614
+      FL_Houses_ext_terrain_floors_47: -34302727
+      FL_Houses_ext_terrain_floors_48: 693621441
+      FL_Houses_ext_terrain_floors_49: -1589995489
+      FL_Houses_ext_terrain_floors_5: -516279525
+      FL_Houses_ext_terrain_floors_50: 113611210
+      FL_Houses_ext_terrain_floors_51: -1525789921
+      FL_Houses_ext_terrain_floors_52: 298711647
+      FL_Houses_ext_terrain_floors_53: -1844449874
+      FL_Houses_ext_terrain_floors_54: 1485251473
+      FL_Houses_ext_terrain_floors_55: 1703503196
+      FL_Houses_ext_terrain_floors_56: -709127364
+      FL_Houses_ext_terrain_floors_57: -1106968400
+      FL_Houses_ext_terrain_floors_58: -1377902653
+      FL_Houses_ext_terrain_floors_59: 709223601
+      FL_Houses_ext_terrain_floors_6: 1799628963
+      FL_Houses_ext_terrain_floors_60: 1233626118
+      FL_Houses_ext_terrain_floors_61: -1509638946
+      FL_Houses_ext_terrain_floors_62: 1103407584
+      FL_Houses_ext_terrain_floors_63: 2104058148
+      FL_Houses_ext_terrain_floors_64: -1781788555
+      FL_Houses_ext_terrain_floors_65: -1645145656
+      FL_Houses_ext_terrain_floors_66: -1015399204
+      FL_Houses_ext_terrain_floors_67: 1022432868
+      FL_Houses_ext_terrain_floors_68: 839353432
+      FL_Houses_ext_terrain_floors_69: 1069266154
+      FL_Houses_ext_terrain_floors_7: 212959584
+      FL_Houses_ext_terrain_floors_70: 495222172
+      FL_Houses_ext_terrain_floors_71: -1447834881
+      FL_Houses_ext_terrain_floors_72: 2015083986
+      FL_Houses_ext_terrain_floors_73: 112324023
+      FL_Houses_ext_terrain_floors_74: 2085812507
+      FL_Houses_ext_terrain_floors_75: -1570942620
+      FL_Houses_ext_terrain_floors_76: -800905897
+      FL_Houses_ext_terrain_floors_77: -928457206
+      FL_Houses_ext_terrain_floors_78: -993982879
+      FL_Houses_ext_terrain_floors_79: 1015284490
+      FL_Houses_ext_terrain_floors_8: 225764889
+      FL_Houses_ext_terrain_floors_80: -66410583
+      FL_Houses_ext_terrain_floors_81: -745397504
+      FL_Houses_ext_terrain_floors_82: -599462376
+      FL_Houses_ext_terrain_floors_83: -2075476980
+      FL_Houses_ext_terrain_floors_84: -912082501
+      FL_Houses_ext_terrain_floors_85: -1355951747
+      FL_Houses_ext_terrain_floors_86: -1800949771
+      FL_Houses_ext_terrain_floors_87: -537727080
+      FL_Houses_ext_terrain_floors_88: 1157745373
+      FL_Houses_ext_terrain_floors_89: 1581647412
+      FL_Houses_ext_terrain_floors_9: 615359490
+      FL_Houses_ext_terrain_floors_90: -1925432068
+      FL_Houses_ext_terrain_floors_91: -516121066
+      FL_Houses_ext_terrain_floors_92: -713120419
+      FL_Houses_ext_terrain_floors_93: 383403778
+      FL_Houses_ext_terrain_floors_94: 120118573
+      FL_Houses_ext_terrain_floors_95: 306589503
+      FL_Houses_ext_terrain_floors_96: 131010262
+      FL_Houses_ext_terrain_floors_97: -1488029600
+      FL_Houses_ext_terrain_floors_98: -918351779
+      FL_Houses_ext_terrain_floors_99: 1947515245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

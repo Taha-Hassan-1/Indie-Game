@@ -1,0 +1,456 @@
+using UnityEngine;
+using System.Collections.Generic;
+using System;
+using System.Collections;
+using System.Linq;
+
+public class EnemyController : MonoBehaviour
+{
+    private SpriteRenderer spriteRenderer;
+    public int offset = 0;
+    public BattleController battleController;
+    public CharacterToolTip characterToolTipScript;
+    public MoveRangeCircle moveRangeCircleScript;
+    public AttackRangeCircle attackRangeCircleScript;
+    public EffectiveAttackRangeCircle effectiveAttackRangeCircleScript;
+    public AttackPreview attackPreviewScript;
+    public CharacterMenu characterMenuScript;
+    public CharacterAssistMenu characterAssistMenuScript;
+    public InventoryMenu inventoryMenuScript;
+    private Rigidbody2D rigidBody;
+    private bool isHovered = false;
+    public int currentHp;
+    public int maxHp;
+    public int currentMana;
+    public int maxMana;
+    public int attack;
+    public int intelligence;
+    public int defense;
+    public int resistance;
+    public int skill;
+    public int speed;
+    public float attackRange;
+    public int unmodifiedMoveRange;
+    public int moveRange;
+    public string title;
+    public bool roams;
+    public bool ranged;
+    public bool boss = false;
+    public bool support;
+    public bool hybrid;
+    public AudioSource deselectAudio;
+    public List<AttackMoves> knownAttacks;
+    public string deathDialogue;
+    public GameOver gameOverScript;
+    public AudioSource walkingAudio;
+    public static event Action<GameObject[]> OnEnemyDied;
+    public bool hoverable = true;
+    public GameObject bossIconPrefab;
+    public List<Debuff> debuffs;
+    public List<Buff> buffs;
+    public bool inAttackRange = false;
+    public bool inSupportRange = false;
+    private Coroutine flashingCoroutine;
+
+
+    void Awake()
+    {
+        walkingAudio = GameObject.Find("WalkingAudio").GetComponent<AudioSource>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        rigidBody = GetComponent<Rigidbody2D>();
+        battleController = GameObject.Find("BattleController").GetComponent<BattleController>();
+        characterToolTipScript = GameObject.Find("CharacterInfoToolTip").GetComponent<CharacterToolTip>();
+        moveRangeCircleScript = GameObject.Find("MoveRangeCircle").GetComponent<MoveRangeCircle>();
+        attackRangeCircleScript = GameObject.Find("AttackRangeCircle").GetComponent<AttackRangeCircle>();
+        effectiveAttackRangeCircleScript = GameObject.Find("EffectiveAttackRangeCircle").GetComponent<EffectiveAttackRangeCircle>();
+        characterMenuScript = GameObject.Find("CharacterMenu").GetComponent<CharacterMenu>();
+        characterAssistMenuScript = GameObject.Find("CharacterAssistMenu").GetComponent<CharacterAssistMenu>();
+        attackPreviewScript = GameObject.Find("AttackPreview").GetComponent<AttackPreview>();
+        inventoryMenuScript = GameObject.Find("InventoryMenu").GetComponent<InventoryMenu>();
+        deselectAudio = GameObject.Find("DeselectAudio").GetComponent<AudioSource>();
+        gameOverScript = GameObject.Find("GameOverScreen").GetComponent<GameOver>();
+        debuffs = new List<Debuff>();
+        buffs = new List<Buff>();
+
+    }
+    void Start()
+    {
+        if (boss)
+        {
+            Instantiate(bossIconPrefab, gameObject.transform, false);
+        }
+    }
+    void Update()
+    {
+        if (!gameOverScript.active && hoverable) 
+        {
+            Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            int layerMask = LayerMask.GetMask("Characters"); // ignore AttackRange layer
+            RaycastHit2D hit = Physics2D.Raycast(mousePos, Vector2.zero, Mathf.Infinity, layerMask);
+
+            if (hit.collider != null && hit.collider.gameObject == gameObject)
+            {
+                // Hover logic
+                if (!isHovered)
+                {
+                    isHovered = true;
+                    OnHoverEnter();
+                }
+
+                // Click logic
+                if (Input.GetMouseButtonDown(0))
+                {
+                    OnClick();
+                }
+            }
+            else if (isHovered)
+            {
+                isHovered = false;
+                OnHoverExit();
+            }
+            
+        }
+    }
+    void LateUpdate()
+    {
+        // Multiply by -100 to invert Y (lower on screen = higher order)
+        spriteRenderer.sortingOrder = -(int)(transform.position.y * 100) + offset;
+
+        if (attackRangeCircleScript.active)
+        {
+            if (battleController.isEnemyTurn)
+            {
+                if (!inSupportRange)
+                {
+                    attackRangeCircleScript.alliesInRange.RemoveAll(x => x == gameObject);
+                    try {
+                        StopCoroutine(flashingCoroutine);
+                        flashingCoroutine = null;
+                    }
+                    catch
+                    {
+                        
+                    }
+                    if (battleController.disabledEnemies.Contains(gameObject))
+                    {
+                        graySpriteAndFreeze();
+                    }
+                    else
+                    {
+                        unhighlight();
+                    }
+                }
+            }
+            else
+            {
+                if (battleController.characterSelected != null)
+                {
+                    if (!inAttackRange)
+                    {
+                        attackRangeCircleScript.enemiesInRange.RemoveAll(x => x == gameObject);
+                        try {
+                            StopCoroutine(flashingCoroutine);
+                            flashingCoroutine = null;
+                        }
+                        catch
+                        {
+                            
+                        }
+                        if (battleController.disabledEnemies.Contains(gameObject))
+                        {
+                            graySpriteAndFreeze();
+                        }
+                        else
+                        {
+                            unhighlight();
+                        }
+                    }
+                }
+                else if (battleController.enemySelected != null)
+                {
+                    if (!inSupportRange)
+                    {
+                        attackRangeCircleScript.alliesInRange.RemoveAll(x => x == gameObject);
+                        try {
+                            StopCoroutine(flashingCoroutine);
+                            flashingCoroutine = null;
+                        }
+                        catch
+                        {
+                            
+                        }
+                        if (battleController.disabledEnemies.Contains(gameObject))
+                        {
+                            graySpriteAndFreeze();
+                        }
+                        else
+                        {
+                            unhighlight();
+                        }
+                    }
+                }
+
+
+            }
+    
+            inAttackRange = false;
+            inSupportRange = false;
+
+        }
+
+        else
+        {
+            if (flashingCoroutine != null)
+            {
+                StopCoroutine(flashingCoroutine);
+                flashingCoroutine = null;
+                if (battleController.disabledEnemies.Contains(gameObject))
+                {
+                    graySpriteAndFreeze();
+                }
+                else
+                {
+                    unhighlight();
+                }
+            }
+        }
+
+    }
+    void OnHoverEnter()
+    {
+        if (battleController.active)
+        {
+            if (!characterMenuScript.active && !attackPreviewScript.active)
+            {
+                characterToolTipScript.enableCharacterToolTip(gameObject);
+            }
+        }
+
+    }
+    void OnHoverExit()
+    {
+        characterToolTipScript.disableCharacterToolTip();
+    }
+    public void OnClick()
+    {
+        if (battleController.active && !battleController.isPaused && !battleController.isEnemyTurn && !attackPreviewScript.active && !characterMenuScript.active && !characterAssistMenuScript.active && !inventoryMenuScript.active)
+        {
+            //no character or enemy selected
+            if (battleController.characterSelected == null && battleController.enemySelected == null)
+            {
+                selectEnemy();
+            }
+
+            //no character selected but another enemy is selected
+            else if (battleController.characterSelected == null && battleController.enemySelected != null)
+            {
+                battleController.enemySelected.GetComponent<EnemyController>().deselectEnemy();
+                selectEnemy();
+            }
+
+            //another character is selected and this enemy is in attack range and character can still act
+            if (battleController.characterSelected != null && attackRangeCircleScript.enemiesInRange.Contains(gameObject))
+            {
+                if (battleController.disabledCharacters.Contains(battleController.characterSelected))
+                {
+                    battleController.characterSelected.GetComponent<PlayerController>().deselectCharacter();
+                    selectEnemy();
+                }
+                else
+                {
+                    battleController.enemySelected = gameObject;
+                    walkingAudio.Stop();
+                    battleController.characterSelected.GetComponent<PlayerController>().animator.SetBool("isWalking", false);
+                    StartCoroutine(attackPreviewScript.enablePreview(false));
+                }
+            }
+
+            //another character is selected and this enemy is not in attack range
+            else if (battleController.characterSelected != null && !attackRangeCircleScript.enemiesInRange.Contains(gameObject))
+            {
+                battleController.characterSelected.GetComponent<PlayerController>().deselectCharacter();
+                selectEnemy();
+            }
+        }
+
+    }
+    public void highlightAttackable()
+    {
+        spriteRenderer.color = Color.red;
+    }
+    public void highlightAssistable()
+    {
+        spriteRenderer.color = Color.green;
+    }
+    public void unhighlight()
+    {
+        spriteRenderer.color = Color.white;
+    }
+    public void graySpriteAndFreeze()
+    {
+        spriteRenderer.color = Color.gray;
+        rigidBody.constraints = RigidbodyConstraints2D.FreezeAll;
+    }
+    public void selectEnemy()
+    {
+        battleController.enemySelected = gameObject;
+        moveRangeCircleScript.enableMoveRange(gameObject);
+        attackRangeCircleScript.enableAttackRange(gameObject);
+        effectiveAttackRangeCircleScript.enableEffectiveAttackRange(gameObject);
+    }
+    public void deselectEnemy()
+    {
+        deselectAudio.Play();
+        moveRangeCircleScript.disableMoveRange();
+        attackRangeCircleScript.disableAttackRange();
+        effectiveAttackRangeCircleScript.disableEffectiveAttackRange();
+        battleController.enemySelected = null;
+        unhighlight();
+    }
+    public void Die(GameObject killer)
+    {
+        deselectEnemy();
+        GameObject[] list = { gameObject, killer };
+        OnEnemyDied?.Invoke(list);
+        Destroy(gameObject);
+
+    }
+    public void ApplyDebuffEffects()
+    {
+        foreach (Debuff debuff in debuffs)
+        {
+            if (debuff.name == "Crippled") {
+                moveRange = 0;
+            }
+        }
+    }
+    public void ApplyBuffEffects()
+    {
+        foreach (Buff buff in buffs)
+        {
+            
+        }
+    }
+    public bool HasDebuff(Debuff debuff) {
+        foreach (Debuff d in debuffs) {
+            if (d.name == debuff.name) {
+                return true;
+            }
+        }
+        return false;
+    }
+    public void AddTurnsToDebuff(Debuff debuff) {
+        foreach (Debuff d in debuffs) {
+            if (d.name == debuff.name) {
+                d.turnsRemaining += debuff.turnsRemaining;
+            }
+        }
+    }
+    public bool HasBuff(Buff buff) {
+        foreach (Buff d in buffs) {
+            if (d.name == buff.name) {
+                return true;
+            }
+        }
+        return false;
+    }
+    public void AddTurnsToBuff(Buff buff) {
+        foreach (Buff d in buffs) {
+            if (d.name == buff.name) {
+                d.turnsRemaining += buff.turnsRemaining;
+            }
+        }
+    }
+    public IEnumerator ApplyEndOfTurnEffects() {
+        foreach (Debuff debuff in debuffs) {
+            //Proc effects like poison damae
+            if (debuff.name == "Poisoned") {
+                yield return StartCoroutine(PoisonAnimation());
+            }
+
+            debuff.turnsRemaining--;
+
+            //Clear effect and reset stats
+            if (debuff.turnsRemaining == 0) {
+                if (debuff.name == "Crippled") {
+                    moveRange = unmodifiedMoveRange;
+                }
+            }
+        }
+        debuffs.RemoveAll(d => d.turnsRemaining <= 0);
+        
+        foreach (Buff buff in buffs) {
+            
+            if (buff.name != "Charged") {
+                buff.turnsRemaining--;
+            }
+        }
+        buffs.RemoveAll(d => d.turnsRemaining <= 0);
+        
+        yield return null;
+    }
+    public IEnumerator PoisonAnimation()
+    {
+
+        //Highlight purple
+        //Play bubbly sound
+        //Bubble animation?
+
+        //Doesn't have Invincibility
+        if (!buffs.Any(buff => buff.name == "Invicible"))
+        {
+
+            //If poison damage will kill
+            if ((int)(currentHp - maxHp * 0.2f) <= 0)
+            {
+                //Check if has steadfast
+                if (buffs.Any(buff => buff.name == "Steadfast"))
+                {
+                    currentHp = 1;
+                }
+
+                //Play death 
+                else
+                {
+                    currentHp = 0;
+                    yield return StartCoroutine(attackPreviewScript.DeathSequence(gameObject, null));
+                }
+            }
+
+            //Else take damage
+            else
+            {
+                currentHp = (int)(currentHp - maxHp * 0.2f);
+            }
+
+        }
+
+    }
+    public void InAttackRange()
+    {
+        if (!attackRangeCircleScript.enemiesInRange.Contains(gameObject))
+        {
+            attackRangeCircleScript.enemiesInRange.Add(gameObject);
+        }
+        if (flashingCoroutine == null)
+        {
+           flashingCoroutine = StartCoroutine(Helpers.FlashSpriteColor(spriteRenderer, Color.red, 1.5f));
+        }
+
+        inAttackRange = true;
+    }
+    public void InSupportRange()
+    {
+        if (!attackRangeCircleScript.alliesInRange.Contains(gameObject))
+        {
+            attackRangeCircleScript.alliesInRange.Add(gameObject);
+        }
+        if (flashingCoroutine == null)
+        {
+           flashingCoroutine = StartCoroutine(Helpers.FlashSpriteColor(spriteRenderer, Color.green, 1.5f));
+        }
+
+        inSupportRange = true;
+    }
+
+}

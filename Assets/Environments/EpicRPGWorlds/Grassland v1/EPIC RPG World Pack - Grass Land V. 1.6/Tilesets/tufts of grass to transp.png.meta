@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: 88710bb5d59e2b94d83c7879716382e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3110320058192720263
+    second: tufts of grass to transp_0
+  - first:
+      213: -4634429773596111771
+    second: tufts of grass to transp_1
+  - first:
+      213: 1381152632083509591
+    second: tufts of grass to transp_2
+  - first:
+      213: 2035044021803253771
+    second: tufts of grass to transp_3
+  - first:
+      213: 6764419839028492628
+    second: tufts of grass to transp_4
+  - first:
+      213: -6453183643908969138
+    second: tufts of grass to transp_5
+  - first:
+      213: -5205063517651589278
+    second: tufts of grass to transp_6
+  - first:
+      213: 5601991541375449479
+    second: tufts of grass to transp_7
+  - first:
+      213: 3428154455475477312
+    second: tufts of grass to transp_8
+  - first:
+      213: 7316318278615754925
+    second: tufts of grass to transp_9
+  - first:
+      213: 6002982548578436770
+    second: tufts of grass to transp_10
+  - first:
+      213: 7942429232577752013
+    second: tufts of grass to transp_11
+  - first:
+      213: -2412958162730146407
+    second: tufts of grass to transp_12
+  - first:
+      213: -2322475501702527576
+    second: tufts of grass to transp_13
+  - first:
+      213: -4714023486863300430
+    second: tufts of grass to transp_14
+  - first:
+      213: 9074402807361333033
+    second: tufts of grass to transp_15
+  - first:
+      213: 5563558202416326466
+    second: tufts of grass to transp_16
+  - first:
+      213: -2551226292809485731
+    second: tufts of grass to transp_17
+  - first:
+      213: 6685013262915814577
+    second: tufts of grass to transp_18
+  - first:
+      213: 1198606975170883156
+    second: tufts of grass to transp_19
+  - first:
+      213: 4553854658444130983
+    second: tufts of grass to transp_20
+  - first:
+      213: -333546190066108283
+    second: tufts of grass to transp_21
+  - first:
+      213: 8028083960528042051
+    second: tufts of grass to transp_22
+  - first:
+      213: -9025953072267138367
+    second: tufts of grass to transp_23
+  - first:
+      213: -7445371246224944398
+    second: tufts of grass to transp_24
+  - first:
+      213: 562810683983934550
+    second: tufts of grass to transp_25
+  - first:
+      213: 2330685395171426363
+    second: tufts of grass to transp_26
+  - first:
+      213: 6552844173328088108
+    second: tufts of grass to transp_27
+  - first:
+      213: -2200248715915373526
+    second: tufts of grass to transp_28
+  - first:
+      213: 5281301563895409306
+    second: tufts of grass to transp_29
+  - first:
+      213: 839202703920817760
+    second: tufts of grass to transp_30
+  - first:
+      213: -1001923549712694484
+    second: tufts of grass to transp_31
+  - first:
+      213: -1381267499098151547
+    second: tufts of grass to transp_32
+  - first:
+      213: -4259797078972999550
+    second: tufts of grass to transp_33
+  - first:
+      213: 2347079371156020967
+    second: tufts of grass to transp_34
+  - first:
+      213: 6817305931190299011
+    second: tufts of grass to transp_35
+  - first:
+      213: 1392277098582118318
+    second: tufts of grass to transp_36
+  - first:
+      213: 7278817709120925509
+    second: tufts of grass to transp_37
+  - first:
+      213: -7541940602054826328
+    second: tufts of grass to transp_38
+  - first:
+      213: 2629546072595664948
+    second: tufts of grass to transp_39
+  - first:
+      213: -7405540904817687474
+    second: tufts of grass to transp_40
+  - first:
+      213: -1589547187637774432
+    second: tufts of grass to transp_41
+  - first:
+      213: -6343942563832459045
+    second: tufts of grass to transp_42
+  - first:
+      213: -2346081592171783393
+    second: tufts of grass to transp_43
+  - first:
+      213: 1343168357998592311
+    second: tufts of grass to transp_44
+  - first:
+      213: -2580876377235895344
+    second: tufts of grass to transp_45
+  - first:
+      213: -2285903282243138217
+    second: tufts of grass to transp_46
+  - first:
+      213: -6621380230543065110
+    second: tufts of grass to transp_47
+  - first:
+      213: 8619550233495505448
+    second: tufts of grass to transp_48
+  - first:
+      213: 6739204056755107310
+    second: tufts of grass to transp_49
+  - first:
+      213: 7570058145645862127
+    second: tufts of grass to transp_50
+  - first:
+      213: 500294940948989142
+    second: tufts of grass to transp_51
+  - first:
+      213: -4328315318033191361
+    second: tufts of grass to transp_52
+  - first:
+      213: -5913400883211548073
+    second: tufts of grass to transp_53
+  - first:
+      213: -8011902993469615216
+    second: tufts of grass to transp_54
+  - first:
+      213: 5175147058233578499
+    second: tufts of grass to transp_55
+  - first:
+      213: -414622626108453611
+    second: tufts of grass to transp_56
+  - first:
+      213: -7769315002333046842
+    second: tufts of grass to transp_57
+  - first:
+      213: -8169628332712202590
+    second: tufts of grass to transp_58
+  - first:
+      213: 5032509158027066236
+    second: tufts of grass to transp_59
+  - first:
+      213: 831596004259955783
+    second: tufts of grass to transp_60
+  - first:
+      213: 7872135191947483001
+    second: tufts of grass to transp_61
+  - first:
+      213: 7969373436950981491
+    second: tufts of grass to transp_62
+  - first:
+      213: -5710938402493386257
+    second: tufts of grass to transp_63
+  - first:
+      213: -8328699722424863221
+    second: tufts of grass to transp_64
+  - first:
+      213: 4391193443132949848
+    second: tufts of grass to transp_65
+  - first:
+      213: 1670149852612893078
+    second: tufts of grass to transp_66
+  - first:
+      213: 2394612596576746035
+    second: tufts of grass to transp_67
+  - first:
+      213: 3681157691446117245
+    second: tufts of grass to transp_68
+  - first:
+      213: 449337453562157199
+    second: tufts of grass to transp_69
+  - first:
+      213: -6123220960720636048
+    second: tufts of grass to transp_70
+  - first:
+      213: 7345847165449846458
+    second: tufts of grass to transp_71
+  - first:
+      213: -5119212217557978276
+    second: tufts of grass to transp_72
+  - first:
+      213: -8706531888052741722
+    second: tufts of grass to transp_73
+  - first:
+      213: -4566614077710737816
+    second: tufts of grass to transp_74
+  - first:
+      213: -5556534842618329171
+    second: tufts of grass to transp_75
+  - first:
+      213: 6461679695895033021
+    second: tufts of grass to transp_76
+  - first:
+      213: 2048940304533834714
+    second: tufts of grass to transp_77
+  - first:
+      213: 8066013127108773481
+    second: tufts of grass to transp_78
+  - first:
+      213: 8998034289237808541
+    second: tufts of grass to transp_79
+  - first:
+      213: -8533454186900288491
+    second: tufts of grass to transp_80
+  - first:
+      213: -1007753635815372102
+    second: tufts of grass to transp_81
+  - first:
+      213: 5981671157484533158
+    second: tufts of grass to transp_82
+  - first:
+      213: -7151164498009009148
+    second: tufts of grass to transp_83
+  - first:
+      213: 3517692451763647000
+    second: tufts of grass to transp_84
+  - first:
+      213: -4547298233204157588
+    second: tufts of grass to transp_85
+  - first:
+      213: -3756615488664765814
+    second: tufts of grass to transp_86
+  - first:
+      213: 227862485392598250
+    second: tufts of grass to transp_87
+  - first:
+      213: 6039512600960951707
+    second: tufts of grass to transp_88
+  - first:
+      213: -8132218422019534323
+    second: tufts of grass to transp_89
+  - first:
+      213: 1645753827608229223
+    second: tufts of grass to transp_90
+  - first:
+      213: -3528250872400382898
+    second: tufts of grass to transp_91
+  - first:
+      213: -7356055666567294659
+    second: tufts of grass to transp_92
+  - first:
+      213: 7892593396194522911
+    second: tufts of grass to transp_93
+  - first:
+      213: 3080395047607842441
+    second: tufts of grass to transp_94
+  - first:
+      213: 3587774583052478850
+    second: tufts of grass to transp_95
+  - first:
+      213: -4751963793058928813
+    second: tufts of grass to transp_96
+  - first:
+      213: -1018105047236972807
+    second: tufts of grass to transp_97
+  - first:
+      213: -2083826480089853444
+    second: tufts of grass to transp_98
+  - first:
+      213: -4283448473603895868
+    second: tufts of grass to transp_99
+  - first:
+      213: -9211327955485343657
+    second: tufts of grass to transp_100
+  - first:
+      213: 1052322367631225945
+    second: tufts of grass to transp_101
+  - first:
+      213: 7910429440220849224
+    second: tufts of grass to transp_102
+  - first:
+      213: -4187028933378127536
+    second: tufts of grass to transp_103
+  - first:
+      213: 8155013970135013367
+    second: tufts of grass to transp_104
+  - first:
+      213: 1335032172418857947
+    second: tufts of grass to transp_105
+  - first:
+      213: -5981973346156387163
+    second: tufts of grass to transp_106
+  - first:
+      213: -6472525724368306394
+    second: tufts of grass to transp_107
+  - first:
+      213: 4766589269983566934
+    second: tufts of grass to transp_108
+  - first:
+      213: 6290726288988519812
+    second: tufts of grass to transp_109
+  - first:
+      213: -4974564414082997531
+    second: tufts of grass to transp_110
+  - first:
+      213: 7320641201456986755
+    second: tufts of grass to transp_111
+  - first:
+      213: 5145812741017992497
+    second: tufts of grass to transp_112
+  - first:
+      213: -518214443665060500
+    second: tufts of grass to transp_113
+  - first:
+      213: -1249070940165563682
+    second: tufts of grass to transp_114
+  - first:
+      213: 259970584978456333
+    second: tufts of grass to transp_115
+  - first:
+      213: -1909361665624114951
+    second: tufts of grass to transp_116
+  - first:
+      213: -1347580719042759862
+    second: tufts of grass to transp_117
+  - first:
+      213: -413536014275915390
+    second: tufts of grass to transp_118
+  - first:
+      213: -1318818315383054514
+    second: tufts of grass to transp_119
+  - first:
+      213: 5395649255044201626
+    second: tufts of grass to transp_120
+  - first:
+      213: -583344637219624410
+    second: tufts of grass to transp_121
+  - first:
+      213: 3464562030154585393
+    second: tufts of grass to transp_122
+  - first:
+      213: -7327237065847935187
+    second: tufts of grass to transp_123
+  - first:
+      213: 911786431777832858
+    second: tufts of grass to transp_124
+  - first:
+      213: 305851950034527455
+    second: tufts of grass to transp_125
+  - first:
+      213: 3165077578378566775
+    second: tufts of grass to transp_126
+  - first:
+      213: 5767477995567316547
+    second: tufts of grass to transp_127
+  - first:
+      213: 1297757583301353085
+    second: tufts of grass to transp_128
+  - first:
+      213: 1393498506181707498
+    second: tufts of grass to transp_129
+  - first:
+      213: -8523217164022295237
+    second: tufts of grass to transp_130
+  - first:
+      213: -3460451021609343984
+    second: tufts of grass to transp_131
+  - first:
+      213: -4883036685374697368
+    second: tufts of grass to transp_132
+  - first:
+      213: -403658820023982760
+    second: tufts of grass to transp_133
+  - first:
+      213: 8331260610490987190
+    second: tufts of grass to transp_134
+  - first:
+      213: -7737865355935066836
+    second: tufts of grass to transp_135
+  - first:
+      213: 6007814383573924139
+    second: tufts of grass to transp_136
+  - first:
+      213: 3997234907406368991
+    second: tufts of grass to transp_137
+  - first:
+      213: -9068957370040522669
+    second: tufts of grass to transp_138
+  - first:
+      213: -631666120203132912
+    second: tufts of grass to transp_139
+  - first:
+      213: -380501671771164112
+    second: tufts of grass to transp_140
+  - first:
+      213: 6019250230319412845
+    second: tufts of grass to transp_141
+  - first:
+      213: 78594691779999960
+    second: tufts of grass to transp_142
+  - first:
+      213: -4598400798358026803
+    second: tufts of grass to transp_143
+  - first:
+      213: -3699245184005301123
+    second: tufts of grass to transp_144
+  - first:
+      213: 9017467611161021177
+    second: tufts of grass to transp_145
+  - first:
+      213: 5493194711148926642
+    second: tufts of grass to transp_146
+  - first:
+      213: 8989504822584281779
+    second: tufts of grass to transp_147
+  - first:
+      213: -8868515945507410075
+    second: tufts of grass to transp_148
+  - first:
+      213: -5706501838941142970
+    second: tufts of grass to transp_149
+  - first:
+      213: 7389699698228900919
+    second: tufts of grass to transp_150
+  - first:
+      213: -739712845273656359
+    second: tufts of grass to transp_151
+  - first:
+      213: -5133707433321006870
+    second: tufts of grass to transp_152
+  - first:
+      213: 8262167922776963792
+    second: tufts of grass to transp_153
+  - first:
+      213: 3899756175471749516
+    second: tufts of grass to transp_154
+  - first:
+      213: -2780723043085182868
+    second: tufts of grass to transp_155
+  - first:
+      213: -1486461826863277916
+    second: tufts of grass to transp_156
+  - first:
+      213: 3968535412711361309
+    second: tufts of grass to transp_157
+  - first:
+      213: 7066184395459064511
+    second: tufts of grass to transp_158
+  - first:
+      213: -3497055434269388503
+    second: tufts of grass to transp_159
+  - first:
+      213: 1532905740093630883
+    second: tufts of grass to transp_160
+  - first:
+      213: -3037952828259699927
+    second: tufts of grass to transp_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tufts of grass to transp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e86a1e26ce5d4d0800000000000000
+      internalID: -3110320058192720263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c4f48dca23fafb0800000000000000
+      internalID: -4634429773596111771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751feef4007da2310800000000000000
+      internalID: 1381152632083509591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008dd571cded3c10800000000000000
+      internalID: 2035044021803253771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f5e0110c00ed50800000000000000
+      internalID: 6764419839028492628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4de1729aafa176a0800000000000000
+      internalID: -6453183643908969138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267280dee46e3c7b0800000000000000
+      internalID: -5205063517651589278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893d6250a54ebd40800000000000000
+      internalID: 5601991541375449479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd9c96050439f20800000000000000
+      internalID: 3428154455475477312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e69cf5b8c88560800000000000000
+      internalID: 7316318278615754925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a603e0a2d0ee4350800000000000000
+      internalID: 6002982548578436770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba9756e4d293e60800000000000000
+      internalID: 7942429232577752013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995279cd553738ed0800000000000000
+      internalID: -2412958162730146407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5497116d8e4cfd0800000000000000
+      internalID: -2322475501702527576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b82aaa5d9c649eb0800000000000000
+      internalID: -4714023486863300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92764996641ceed70800000000000000
+      internalID: 9074402807361333033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2476c3645bab53d40800000000000000
+      internalID: 5563558202416326466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5234732439389cd0800000000000000
+      internalID: -2551226292809485731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b44fd6d420f5cc50800000000000000
+      internalID: 6685013262915814577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ead5481be42a010800000000000000
+      internalID: 1198606975170883156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf15b3faa823f30800000000000000
+      internalID: 4553854658444130983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588bce0e1810f5bf0800000000000000
+      internalID: -333546190066108283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tufts of grass to transp_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f846d3db796f60800000000000000
+      internalID: 8028083960528042051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6701a76570cf7414bb22b750425337b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tufts of grass to transp_0: -3110320058192720263
+      tufts of grass to transp_1: -4634429773596111771
+      tufts of grass to transp_10: 6002982548578436770
+      tufts of grass to transp_11: 7942429232577752013
+      tufts of grass to transp_12: -2412958162730146407
+      tufts of grass to transp_13: -2322475501702527576
+      tufts of grass to transp_14: -4714023486863300430
+      tufts of grass to transp_15: 9074402807361333033
+      tufts of grass to transp_16: 5563558202416326466
+      tufts of grass to transp_17: -2551226292809485731
+      tufts of grass to transp_18: 6685013262915814577
+      tufts of grass to transp_19: 1198606975170883156
+      tufts of grass to transp_2: 1381152632083509591
+      tufts of grass to transp_20: 4553854658444130983
+      tufts of grass to transp_21: -333546190066108283
+      tufts of grass to transp_22: 8028083960528042051
+      tufts of grass to transp_3: 2035044021803253771
+      tufts of grass to transp_4: 6764419839028492628
+      tufts of grass to transp_5: -6453183643908969138
+      tufts of grass to transp_6: -5205063517651589278
+      tufts of grass to transp_7: 5601991541375449479
+      tufts of grass to transp_8: 3428154455475477312
+      tufts of grass to transp_9: 7316318278615754925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
